@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratyush
 - 👀 I’m interested in Web Development And Design
-- 🌱 I’m currently learning Javascript and its framework and Figma
-- 💞️ I’m looking to collaborate on Web Design
+- 🌱 I’m currently learning Java and its Frameworks and Exploring my knowledge in JavaScript
+- 💞️ I’m looking to collaborate on Web Design and Java Web Apllications
 - 📫 How to reach me @pratyushmishra975@gmail.com
 
 <!---
